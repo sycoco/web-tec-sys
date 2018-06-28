@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ES6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES7.md" beforeDir="false" afterPath="$PROJECT_DIR$/ES7.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ES8.md" beforeDir="false" afterPath="$PROJECT_DIR$/ES8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/ES8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="249">
-                <caret line="68" column="99" selection-start-line="68" selection-start-column="99" selection-end-line="68" selection-end-column="99" />
+              <first_editor relative-caret-position="299">
+                <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -201,25 +197,25 @@
       <workItem from="1521799264540" duration="2285000" />
       <workItem from="1522202726252" duration="1250000" />
       <workItem from="1523255797835" duration="1197000" />
-      <workItem from="1530166929160" duration="3116000" />
+      <workItem from="1530166929160" duration="3261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8115000" />
+    <option name="totallyTimeSpent" value="8260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="727" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15965052" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15965052" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,8 +461,8 @@
     <entry file="file://$PROJECT_DIR$/ES8.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="249">
-            <caret line="68" column="99" selection-start-line="68" selection-start-column="99" selection-end-line="68" selection-end-column="99" />
+          <first_editor relative-caret-position="299">
+            <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

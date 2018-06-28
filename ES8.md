@@ -68,4 +68,44 @@
 ### 函数参数列表和调用中的尾逗号（Trailing commas）
 > 尾逗号主要有用在使用多行参数风格（典型的是那些很长的参数名），开发者终于可以忘记逗号放在第一位这种奇怪的写法。自从逗号bugs主要原因就是使用他们。而现在你可以到处使用逗号，甚至最后参数都可以。
 ### 异步函数（Async Functions）
-
+> 异步函数（或者async/await）特性操作是Promise最重要的功能。所以你大概进一步阅读他们或者看一个进修视频课程来。这种想法是为了在写异步代码中简化它，因为人类大脑最讨厌这种平行非序号思维了。它只是不会演变这种方式。
+  对于我个人来说，我不喜欢Promise，就仅仅相比callback显得特别冗余。所以我从来没有使用过它，幸运的是，在ES8，异步函数是那么给力。开发者定义一个asyc函数里面不包含或者包含await 基于Promise异步操作。在这引擎之下一个异步函数返回一个Promise，无论无何你在任何地方不会看到这样的一个词（注：Promise）(当然了，你非的自己使用)。
+  + 例如，在ES6中我们可以使用Promise，Axios库向GraphQL服务器发送一个请求：
+    ```
+    axios.get(`/q?query=${query}`)
+      .then(response => response.data)
+      .then(data => {
+        this.props.processfetchedData(data) // Defined somewhere else
+      })
+      .catch(error => console.log(error))
+    
+    ```
+  + 任何一个Promise库都能兼容新的异步函数，我们可以使用同步try/catch做错误处理。
+    
+    ```
+    async fetchData(url) => {
+      try {
+        const response = await axios.get(`/q?query=${query}`)
+        const data = response.data
+        this.props.processfetchedData(data)
+      } catch (error) {
+        console.log(error)
+      }
+    }
+   
+    ```
+  + 异步函数返回一个Promise，所以我们像下面可以继续执行流程:
+    ```
+    async fetchData(query) => {
+      try {
+        const response = await axios.get(`/q?query=${query}`)
+        const data = response.data
+        return data
+      } catch (error) {
+        console.log(error)
+      }
+    }
+    fetchData(query).then(data => {
+      this.props.processfetchedData(data)
+    })
+    ```
