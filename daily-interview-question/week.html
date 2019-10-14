@@ -44,5 +44,15 @@
     //     console.log(e.target.innerWidth, e.target.innerHeight);
     // }
     // window.addEventListener('resize', throttle(sayHi));
+    // 2.将数组扁平化并去除其中重复数据，最终得到一个升序且不重复的数组
+    // let arr = [1, 1, 4, 4, 3, [1, 5, 98, 5]];
+    // console.log( Array.from(new Set(arr.flat(Infinity))).sort((a, b) => a - b));
+    // new Set es6提供的返回一个不重复的对象，使用Array.from转为数组，flat是把层叠的数组平铺，sort进行从小到大排序
+    // 3.判断一个变量是否为数组
+    //     第一种
+    //     let arr = [1,4,6];
+    //     console.log(arr instanceof Array);
+    // 第二种 console.log(Object.prototype.toString.call(arr) === '[object Array]');
+    // 第三种 console.log(arr.constructor === Array);
 </script>
 </html>
