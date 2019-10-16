@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="添加MVC" />
+    <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="添加MVC">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <workItem from="1530515602944" duration="1784000" />
       <workItem from="1568185114909" duration="6575000" />
       <workItem from="1570862951087" duration="4301000" />
-      <workItem from="1571121189935" duration="259000" />
+      <workItem from="1571121189935" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="添加MVC">
       <created>1568186548280</created>
