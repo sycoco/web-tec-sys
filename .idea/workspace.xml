@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="添加MVC">
+      <change afterPath="$PROJECT_DIR$/react hook.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +26,6 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="721" />
   </component>
   <component name="ProjectId" id="1SEG9ChMK5TRlqT5ianeCGZI4PI" />
   <component name="PropertiesComponent">
@@ -76,7 +72,8 @@
       <workItem from="1568185114909" duration="6575000" />
       <workItem from="1570862951087" duration="4301000" />
       <workItem from="1571121189935" duration="985000" />
-      <workItem from="1571194505055" duration="519000" />
+      <workItem from="1571194505055" duration="2629000" />
+      <workItem from="1571281914611" duration="729000" />
     </task>
     <task id="LOCAL-00001" summary="添加MVC">
       <created>1568186548280</created>
