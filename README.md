@@ -1,7 +1,7 @@
 # web-tec-sys
 - [基础知识体系](basicSkill/basicSkill.md)
 - [this指向](basicSkill/this.md)
-- [跨域策略](basicSkill/Cross domain.md)
+- [跨域策略](basicSkill/crossDomain.md)
 - [js事件流](basicSkill/DOM.md)
 - [ES6-Module](basicSkill/es6-module.md)
 - [Md语法](basicSkill/md.md)
