@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="添加MVC">
-      <change afterPath="$PROJECT_DIR$/basicSkill/picture/object-proto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicSkill/picture/object-prototype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicSkill/picture/prototype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicSkill/原型链.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicSkill/promise.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,13 +36,13 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/basicSkill/picture" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/basicSkill" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,7 +79,8 @@
       <workItem from="1571121189935" duration="985000" />
       <workItem from="1571194505055" duration="2629000" />
       <workItem from="1571281914611" duration="729000" />
-      <workItem from="1584502849194" duration="5617000" />
+      <workItem from="1584502849194" duration="6098000" />
+      <workItem from="1585034169547" duration="7399000" />
     </task>
     <task id="LOCAL-00001" summary="添加MVC">
       <created>1568186548280</created>
