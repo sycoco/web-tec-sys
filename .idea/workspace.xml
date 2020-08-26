@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f226a9-44ba-4440-af5f-535f72b2f7d7" name="Default" comment="添加MVC">
-      <change afterPath="$PROJECT_DIR$/basicSkill/react-hook.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/layout.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,34 +28,28 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1SEG9ChMK5TRlqT5ianeCGZI4PI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/basicSkill/picture" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/basicSkill" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +75,8 @@
       <workItem from="1571281914611" duration="729000" />
       <workItem from="1584502849194" duration="6098000" />
       <workItem from="1585034169547" duration="10738000" />
-      <workItem from="1585123028533" duration="2294000" />
+      <workItem from="1585123028533" duration="3490000" />
+      <workItem from="1598434500489" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="添加MVC">
       <created>1568186548280</created>
